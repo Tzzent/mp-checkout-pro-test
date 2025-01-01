@@ -1,6 +1,6 @@
 import { MercadoPagoConfig, Preference } from "mercadopago"
 
-import { readFileSync } from "node:fs"
+import items from "@/db/items.json"
 
 export interface Item {
   id: string,
@@ -23,9 +23,7 @@ export const mercadopago = new MercadoPagoConfig({
 const api = {
   item: {
     list: async (): Promise<Item[]> => {
-      const db = readFileSync("src/db/items.json")
-
-      return JSON.parse(db.toString())
+      return items
     },
     submit: async (item: Omit<Item, "id">) => {
       const preference = await new Preference(mercadopago).create({
