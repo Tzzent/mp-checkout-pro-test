@@ -8,7 +8,7 @@ export const POST = async (req: NextRequest) => {
   try {
     const { searchParams } = req.nextUrl
 
-    const id = searchParams.get("id")
+    const id = searchParams.get("data.id")
     const topic = searchParams.get("topic")
 
     if (!id || topic !== "payment") {
