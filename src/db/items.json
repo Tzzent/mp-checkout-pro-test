@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ABC1",
+    "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-16-Pro/Desert-Titanium/Apple-iPhone-16-Pro-Desert-Titanium-thumbnail.png",
+    "name": "LG 6",
+    "description": "Telefono LG 6",
+    "price": 125,
+    "unit": 1
+  },
+  {
+    "id": "ABC2",
+    "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-16/Ultramarine/Apple-iPhone-16-Ultramarine-thumbnail.png",
+    "name": "Iphone X",
+    "description": "Telefono Iphone X",
+    "price": 85,
+    "unit": 1
+  },
+  {
+    "id": "ABC3",
+    "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-16-Plus/Pink/Apple-iPhone-16-Plus-Pink-thumbnail.png",
+    "name": "Iphone X2",
+    "description": "Telefono Iphone X2",
+    "price": 105,
+    "unit": 1
+  },
+  {
+    "id": "ABC4",
+    "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/Motorola/Motorola-razr-Plus-2024/Hot-Pink/Motorola-razr-Plus-2024-Hot-Pink-thumbnail.png",
+    "name": "Motorola razr+ 2024",
+    "description": "Telefono Motorala razr+ 2024",
+    "price": 150,
+    "unit": 1
+  },
+  {
+    "id": "ABC5",
+    "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/Google/Google-Pixel-9/Obsidian/Google-Pixel-9-Obsidian-thumbnail.png",
+    "name": "Google Pixel 9 Obsidian",
+    "description": "Telefono Google Pixel 9 Obsidian",
+    "price": 120,
+    "unit": 1
+  },
+  {
+    "id": "ABC6",
+    "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/Google/Google-Pixel-9-Pro/Porcelain/Google-Pixel-9-Pro-Porcelain-thumbnail.png",
+    "name": "Pixel 9 Pro Fold",
+    "description": "Telefono Pixel 9 Pro Fold Porcelain",
+    "price": 100,
+    "unit": 1
+  },
+  {
+    "id": "ABC7",
+    "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/Google/Google-Pixel-9-Pro-Fold/Obsidian/Google-Pixel-9-Pro-Fold-Obsidian-thumbnail.png",
+    "name": "Pixel 9 Pro Fold",
+    "description": "Telefono Pixel 9 Pro Fold",
+    "price": 140,
+    "unit": 1
+  },
+  {
+    "id": "ABC8",
+    "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/samsung/Samsung-Galaxy-Z-Flip6/Blue/Samsung-Galaxy-Z-Flip6-Blue-thumbnail.png",
+    "name": "Galaxy Z Flip6",
+    "description": "Telefono Galaxy Z Flip6",
+    "price": 130,
+    "unit": 1
+  }
+]
