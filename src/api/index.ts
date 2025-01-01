@@ -11,7 +11,7 @@ export interface Item {
   unit: number
 }
 
-const baseUrl = process.env.NEXT_PUBLIC_BASE_URL!
+const baseUrl = "https://mp-checkout-pro-test.vercel.app"
 
 export const mercadopago = new MercadoPagoConfig({
   accessToken: process.env.MP_ACCESS_TOKEN!,
